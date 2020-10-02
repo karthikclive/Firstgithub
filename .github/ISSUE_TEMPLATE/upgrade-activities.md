@@ -1,8 +1,8 @@
 ---
-name: CONNECTIVITY ISSUE
-about: Issues while connecting to application/tool
+name: UPGRADE ACTIVITIES
+about: Quarterly/Yearly upgrade activities
 title: ''
-labels: ''
+labels: UPGRADE
 assignees: ''
 
 ---

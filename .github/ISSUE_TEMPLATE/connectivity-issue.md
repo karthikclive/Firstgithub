@@ -17,6 +17,6 @@ assignees: ''
 
 **PRIORITY *(High/Medium/Low)* - **
 
-***Pick the priority based on busniess impact***
+***Pick the priority based on business impact***
 
 **ADDITIONAL COMMENTS - **

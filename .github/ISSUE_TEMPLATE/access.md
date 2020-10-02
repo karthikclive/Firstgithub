@@ -11,10 +11,13 @@ assignees: ''
 
 **EMAIL ID - **
 
-**DESCRIPTION - **
+**ISSUE DESCRIPTION - **
 
 **ENVIRONMENT *(Production/Sandbox)* - **
 
+**PRIORITY *(High/Medium/Low)* - **
+*Pick the priority based on busniess impact*
+
 **MIRROR ID *(If any)* - **
 
-**CALL BACK NO - **
+**ADDITIONAL COMMENTS - **

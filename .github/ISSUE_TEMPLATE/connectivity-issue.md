@@ -7,16 +7,23 @@ assignees: ''
 
 ---
 
-**USER ID - **
+**USER ID:**
 
-**EMAIL ID - **
+**EMAIL ID:**
 
-**ISSUE DESCRIPTION - **
+**ISSUE DESCRIPTION:**
 
-**ENVIRONMENT *(Production/Sandbox)* - **
+**JUSTIFICATION:** *(Applicable only for new access request)***:**
 
-**PRIORITY *(High/Medium/Low)* - **
+**ENVIRONMENT** *(Production/Sandbox)***:**
+
+**PRIORITY** *(High/Medium/Low)***:**
 
 ***Pick the priority based on business impact***
 
-**ADDITIONAL COMMENTS - **
+**ADDITIONAL COMMENTS:**
+
+**NOTES:**
+
+**Please select the application name & the issue priority by clicking the settings icon in the Labels section.*
+**Please click the settings icon in the Projects section & go to the repository tab to select the appropriate project related to the issue.*
